@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pignoncharles !
-- 👀 I’m interested in using data science and machine learning to build tools that create business value, especially in the life sciences.
-- 🌱 I’m currently learning about data science, machine learning, and developing web-based apps.
-- 💞️ Please check out my DSI_Pignon repo to see what projects I'm working on!
+- 👀 I’m interested in using data science, machine learning, and experimental analysis to build tools that create business value.
+- 🌱 I’m currently learning about automating pipelines to explore, transform, visualize, and analyze data.
+- 💞️ Please check out my DSI_Youtube repo to see the project I worked on for my Data Science certification!
 
 <!---
 pignoncharles/pignoncharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
